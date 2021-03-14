@@ -1,0 +1,23 @@
+commit 0a5c15ca27b2f8040afcfe4daa3ff9901d036ac5
+Author: xritso <chris_tso@yahoo.com>
+Date:   Sun Mar 14 01:29:06 2021 +0200
+
+    added gitignore
+
+commit 8213d8dbbe9fe7967dc258d764a7d9afdcc772ff
+Author: xritso <chris_tso@yahoo.com>
+Date:   Sun Mar 14 01:13:16 2021 +0200
+
+    added file3
+
+commit f4bdd82d99ae904c3b7045a947b17bd500db11e1
+Author: xritso <chris_tso@yahoo.com>
+Date:   Sun Mar 14 01:09:20 2021 +0200
+
+    added two files
+
+commit f34dccd559aea38f7d0ae82052cdd8bb1c64164b
+Author: xritso <chris_tso@yahoo.com>
+Date:   Sun Mar 14 01:00:48 2021 +0200
+
+    added readme.txt
